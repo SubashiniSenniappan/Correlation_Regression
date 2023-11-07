@@ -22,6 +22,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Program :
+```
 DEVELOPED BY:S.SUBASHINI
 REGISTER  NO:212222240106
 
@@ -57,6 +58,7 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+```
 
 # Output 
 ![image](https://github.com/SubashiniSenniappan/Correlation_Regression/assets/119404951/60a0b6d5-9b57-40b8-a26c-7ea757b05d35)
